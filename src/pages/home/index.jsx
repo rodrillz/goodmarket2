@@ -34,7 +34,9 @@ export default function Home() {
         "static/images/marcas7.png",
     ];
     return (
+        
         <>
+        <meta name="google-site-verification" content="7HYNzFrSrKTNZa9AAHrsEqqawNWYf-q7Nltc0qJM__Y" />
         <div style={{ backgroundColor: "#FDF5E6" }}> {/* Cambia este color por el que desees */}
 
         <Carrrusel slides={slides} />
