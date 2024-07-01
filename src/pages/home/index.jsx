@@ -9,19 +9,19 @@ import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 
 export default function Home() {
     const slides = [
-        "static/images/fachada3.JPG",
-        "static/images/fachada1.JPG",
-        "static/images/letrero.JPG",
+        "static/images/fachada3.png",
+        "static/images/fachada1.png",
+        "static/images/letrero.png",
         "static/images/higiene1.png",
-        "static/images/dulces1.JPG",
-        "static/images/verduras.JPG",
-        "static/images/desayuno.JPG",
-        "static/images/cecinas.JPG",
-        "static/images/pasillo3.JPG",
-        "static/images/dulces3.JPG",
-        "static/images/helados1.JPG",
-        "static/images/congelados1.JPG",
-        "static/images/congelados2.JPG",
+        "static/images/dulces1.png",
+        "static/images/verduras.png",
+        "static/images/desayuno.png",
+        "static/images/cecinas.png",
+        "static/images/pasillo3.png",
+        "static/images/dulces3.png",
+        "static/images/helados1.png",
+        "static/images/congelados1.png",
+        "static/images/congelados2.png",
         
       ];
     const marcas = [
